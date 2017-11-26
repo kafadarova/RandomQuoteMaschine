@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/kafadarova/pen/aVjYZb.
-
- 
+In this project I use javascript API and jQuery AJAX method to create a random quote machine. Each time this app show different quotes and their authors, when the user hits the button "Pick a new quote". I acquired the API from Mashape. There is a twitter sharing option. 
