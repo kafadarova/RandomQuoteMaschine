@@ -1,0 +1,53 @@
+body {
+  background: url(https://static.posters.cz/image/1300/fotobehang/whitewash-wood-i21508.jpg) no-repeat center center fixed; 
+background-size:cover;
+}
+h1.text-primary{
+  color: #221D39;
+  margin: 30px;
+  font-family: 'Tangerine', serif;
+  font-size: 70px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.container{
+  background-color:#D2CFDE;
+  box-shadow: 10px 10px 5px #888888;
+  margin: 30px;
+  border-radius: 10px;
+}
+h3.quote{
+  color: #1C1245;
+}
+h3.quote#quote-text{
+font-family: 'Tangerine', serif;
+ font-size: 40px;
+}
+div p{
+  margin:15px;
+  color: #221D39;
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px;
+}
+div p a:link, a:visited{
+  color: #6A618D;
+ text-decoration: underline;
+}
+.container-fluid {
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #e4f1fe;
+}
+button.btn {
+  background-color: #1C1245;
+  margin:15px;
+  font-family: 'Old Standard TT', serif;
+  font-size:18px;
+  box-shadow: 2px 2px 5px #888888;
+  border-style:none;
+}
+button.btn:hover{
+  border-style:none;
+  background-color: #887DB4;
+}
